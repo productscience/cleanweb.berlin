@@ -1,0 +1,39 @@
+---
+  layout: default
+---
+
+<a id="events"></a>
+
+  {% for post in site.posts limit:2 %}
+    <article class="{{post.class}}" id="{{post.date | date:'%m-%d-%Y'}}">
+      {% include post-body.html %}
+    </article>
+  {% endfor %}
+
+  <p class="archive-link hide-on-print">
+    <a href="/archive/">&raquo; See archive</a> for all previous events.
+  </p>
+
+
+  <article>
+    <header class="title">
+      <a href="/submit/" class="btn btn--rsvp hide-on-print">Submit A Talk</a>
+      <span class="title__count">
+        Next
+      </span>
+      <span class="title__date">
+        Upcoming Events
+      </span>
+    </header>
+    <div class="post__content">
+
+      {% include list-of-upcoming-events.html %}
+
+      <p>
+        We are always looking for interesting topics and new perspectives. If you are interested in speaking at Cleanweb Berlin, you are welcome to <a href="/submit/">submit a talk</a>.
+      </p>
+    </div>
+  </article>
+
+
+</div>

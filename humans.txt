@@ -1,0 +1,17 @@
+
+Talk to us at @cleanwebberlin and team@cleanweb.berlin
+
+/* TEAM */
+
+cleanweb Berlin is run by:
+- Chris Adams, @mrchrisadams
+- Darina Onoprienko, @DOnoprienko
+- Anna Yukiko Bickenbach, @BGreenYukiko
+- Philipp Mahr, @phimahr
+
+This site is based very, very heavily on the upfront.ug website.
+
+It's largely a fork of their site, after we asked nicely if we could use it
+as a basis for our own. So, thanks upfront peeps :)
+
+Special thanks to Martin Spindler (@mjays) for helping with the first year and a half of running the meetups.
