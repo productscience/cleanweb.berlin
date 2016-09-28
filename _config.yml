@@ -11,7 +11,7 @@ url: "http://cleanweb.berlin" # the base hostname & protocol for your site
 twitter_username: cleanwebberlin
 facebook_username:  cleanwebberlin
 
-# permalink: pretty
+permalink: pretty
 
 sass:
     style: compressed
