@@ -591,6 +591,20 @@ footer {
     padding: 3em 0;
     margin-bottom: 0;
   }
+
+  .newsletter h3{
+    border-top: 1px solid #888;
+    margin-top: 1rem;
+    padding-top: 1rem;
+  }
+
+  #mce-success-response, #mce-error-response{
+    margin-bottom: 2em;
+    font-style: italic;
+    padding: 1rem;
+  }
+
+
   a {
     color: $grey--light;
     &:hover, &:active, &:focus {
